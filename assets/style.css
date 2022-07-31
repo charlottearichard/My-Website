@@ -64,6 +64,22 @@ button:hover {
     color:#eceaf4;
 }
 
+/* Button Function */
+button  {
+    font-family: Arial, Helvetica, sans-serif ;
+    color:#b095a8;
+    font-size: 18px;
+    padding: 9px 25px;
+    background-color: rgb(232, 235, 236);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;    
+}
+
+button:hover {
+    background-color: #ad98a7;
+    color:#eceaf4;
+}
 
 /* About Me*/ 
 
